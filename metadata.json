@@ -1,0 +1,7 @@
+{
+  "name": "Sensaidaynekos",
+  "description": "A high-performance Sensaidaynekos simulator with iOS-inspired smooth animations, featuring a secure lock screen and AI-powered system suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
